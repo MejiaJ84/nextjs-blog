@@ -1,6 +1,7 @@
 import Head from 'next/head'
-import Link from "next/link";
-import './css/global.css'
+import Link from "next/link"
+
+
 
 export default function Home() {
   return (
